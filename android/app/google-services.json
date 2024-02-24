@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567837990850",
+    "project_id": "peoveo-7fec4",
+    "storage_bucket": "peoveo-7fec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567837990850:android:eea43dddf082ec9cae405b",
+        "android_client_info": {
+          "package_name": "com.example.peo_veo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567837990850-rpe66hi981ujdk54i1p7r0v8cic45dth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUX4ByCj8N1jHGK9AfZc06zhD3_xEag0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567837990850-rpe66hi981ujdk54i1p7r0v8cic45dth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
